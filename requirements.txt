@@ -1,1 +1,8 @@
 flask
+black
+flake8
+ipython
+mypy
+pylint
+pytest
+yapf
